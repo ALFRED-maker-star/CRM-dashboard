@@ -1,0 +1,6 @@
+{
+  "name": "PipelinePro",
+  "description": "Desktop-first enterprise CRM dashboard with Kanban pipeline, deal analytics, team leaderboard, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
